@@ -1,0 +1,89 @@
+{
+  "menu": [
+    "references/intent-map.md",
+    "references/recipe-menu.md",
+    "references/glossary.md"
+  ],
+  "image": [
+    "references/demo-recipes.md",
+    "references/source/docs/effectSDK_base_en/InputImageData.md"
+  ],
+  "camera": [
+    "references/react-vite-template.md",
+    "references/source/docs/effectSDK_base_en/CameraMediaStream.md"
+  ],
+  "mediaStream": [
+    "references/demo-recipes.md",
+    "references/source/docs/effectSDK_base_en/InputMediaStream.md"
+  ],
+  "agoraRtc": [
+    "references/rtc-agora.md",
+    "references/source/docs/RTCReadme_en.md"
+  ],
+  "zegoRtc": [
+    "references/rtc-zego.md",
+    "references/source/docs/ZegoRTCReadme_en.md"
+  ],
+  "beautyMakeupShape": [
+    "references/effects.md",
+    "references/source/docs/effectSDK_base_en/BeautyShapeMakeup.md"
+  ],
+  "makeupPackage": [
+    "references/intent-map.md",
+    "references/effects.md",
+    "references/troubleshooting.md",
+    "references/source/docs/effectSDK_base_en/CompoundMakeup.md"
+  ],
+  "faceMesh": [
+    "references/intent-map.md",
+    "references/effects.md",
+    "references/source/docs/effectSDK_base_en/BeautyShapeMakeup.md"
+  ],
+  "videoFx": [
+    "references/intent-map.md",
+    "references/effects.md",
+    "references/source/docs/effectSDK_base_en/VideoFx.md"
+  ],
+  "segmentation": [
+    "references/effects.md",
+    "references/source/docs/effectSDK_base_en/SegmentationBackground.md"
+  ],
+  "caption": [
+    "references/intent-map.md",
+    "references/external-effects.md",
+    "references/source/docs/effectSDK_base_en/Caption.md"
+  ],
+  "modularCaption": [
+    "references/intent-map.md",
+    "references/external-effects.md",
+    "references/api-map.md",
+    "references/source/docs/effectSDK_base_en/Caption.md"
+  ],
+  "compoundCaption": [
+    "references/intent-map.md",
+    "references/external-effects.md",
+    "references/source/docs/effectSDK_base_en/CompoundCaption.md"
+  ],
+  "sticker": [
+    "references/external-effects.md",
+    "references/source/docs/effectSDK_base_en/AnimatedSticker.md"
+  ],
+  "packages": [
+    "references/effects.md",
+    "references/source/docs/effectSDK_base_en/InstallAssetPackage.md"
+  ],
+  "license": [
+    "references/quick-start.md",
+    "references/troubleshooting.md",
+    "references/source/docs/effectSDK_base_en/VerifyLicense.md"
+  ],
+  "models": [
+    "references/intent-map.md",
+    "references/quick-start.md",
+    "references/source/docs/effectSDK_base_en/InitHumanDetectionModels.md"
+  ],
+  "troubleshooting": [
+    "references/troubleshooting.md",
+    "references/source/docs/effectSDK_base_en/EffectQuestionList.md"
+  ]
+}

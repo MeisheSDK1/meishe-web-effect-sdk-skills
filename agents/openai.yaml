@@ -1,0 +1,6 @@
+interface:
+  display_name: "Meishe Web EffectSDK Skill"
+  short_description: "Implement and debug Meishe Web EffectSDK demos from bundled SDK knowledge."
+  default_prompt: "Use $meishe-web-effect-sdk-skill (alias meishe_web_effect_sdk_skill) to implement a Meishe Web EffectSDK React/Vite demo from a natural-language feature request."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,582 @@
+[
+  {
+    "path": "references/source/docs/effectSDK_base_en/AnimatedSticker.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "sticker",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/AvatarARScene.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "avatar",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/BeautyShapeMakeup.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/CameraMediaStream.md",
+    "tags": [
+      "rtc",
+      "camera",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/Caption.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "caption",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/CompoundCaption.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "caption",
+      "sticker",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/CompoundMakeup.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/CreateEffectAndRender.md",
+    "tags": [
+      "image"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/EffectIntroduction.md",
+    "tags": [
+      "image",
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "package"
+    ],
+    "headings": [
+      "###",
+      "###",
+      "###",
+      "###",
+      "###"
+    ]
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/EffectQuestionList.md",
+    "tags": [
+      "image",
+      "beauty",
+      "segmentation",
+      "avatar",
+      "package",
+      "license",
+      "troubleshooting"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/EffectSDKSamples.md",
+    "tags": [
+      "beauty",
+      "caption",
+      "sticker",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/EffectTopic.md",
+    "tags": [
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/ImportSDK.md",
+    "tags": [],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/InitHumanDetectionModels.md",
+    "tags": [
+      "image",
+      "segmentation",
+      "avatar"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/InputImageData.md",
+    "tags": [
+      "image",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/InputMediaStream.md",
+    "tags": [
+      "rtc",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/InstallAssetPackage.md",
+    "tags": [
+      "beauty",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/Others.md",
+    "tags": [
+      "camera",
+      "image",
+      "beauty",
+      "segmentation",
+      "avatar",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/ProjectSettings.md",
+    "tags": [
+      "troubleshooting"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/SegmentationBackground.md",
+    "tags": [
+      "camera",
+      "image",
+      "beauty",
+      "segmentation",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/SetHumanDetectionData.md",
+    "tags": [
+      "beauty"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/topic/effect_licenseFile.md",
+    "tags": [
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/VerifyLicense.md",
+    "tags": [
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_en/VideoFx.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/AnimatedSticker.md",
+    "tags": [
+      "camera",
+      "sticker",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/AvatarARScene.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "avatar",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/BeautyShapeMakeup.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/CameraMediaStream.md",
+    "tags": [
+      "rtc",
+      "camera",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/Caption.md",
+    "tags": [
+      "camera",
+      "caption",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/CompoundCaption.md",
+    "tags": [
+      "camera",
+      "caption",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/CompoundMakeup.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/CreateEffectAndRender.md",
+    "tags": [
+      "image"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/EffectIntroduction.md",
+    "tags": [
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "package"
+    ],
+    "headings": [
+      "###",
+      "###",
+      "###",
+      "###",
+      "###"
+    ]
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/EffectQuestionList.md",
+    "tags": [
+      "image",
+      "beauty",
+      "segmentation",
+      "avatar",
+      "package",
+      "troubleshooting"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/EffectSDKSamples.md",
+    "tags": [
+      "beauty",
+      "caption",
+      "sticker",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/EffectTopic.md",
+    "tags": [
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/ImportSDK.md",
+    "tags": [],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/InitHumanDetectionModels.md",
+    "tags": [
+      "image",
+      "segmentation",
+      "avatar"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/InputImageData.md",
+    "tags": [
+      "image",
+      "beauty",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/InputMediaStream.md",
+    "tags": [
+      "rtc",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/InstallAssetPackage.md",
+    "tags": [
+      "beauty",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/Others.md",
+    "tags": [
+      "beauty",
+      "segmentation",
+      "avatar"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/ProjectSettings.md",
+    "tags": [
+      "troubleshooting"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/SegmentationBackground.md",
+    "tags": [
+      "camera",
+      "image",
+      "segmentation",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/SetHumanDetectionData.md",
+    "tags": [
+      "beauty"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/topic/effect_licenseFile.md",
+    "tags": [
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/VerifyLicense.md",
+    "tags": [
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/effectSDK_base_zh/VideoFx.md",
+    "tags": [
+      "camera",
+      "beauty",
+      "package",
+      "license"
+    ],
+    "headings": []
+  },
+  {
+    "path": "references/source/docs/RTCReadme_en.md",
+    "tags": [
+      "agora",
+      "rtc",
+      "camera",
+      "image",
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "avatar",
+      "package",
+      "license",
+      "troubleshooting"
+    ],
+    "headings": [
+      "#",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###"
+    ]
+  },
+  {
+    "path": "references/source/docs/RTCReadme_zh.md",
+    "tags": [
+      "agora",
+      "rtc",
+      "camera",
+      "image",
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "avatar",
+      "package",
+      "troubleshooting"
+    ],
+    "headings": [
+      "#",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###"
+    ]
+  },
+  {
+    "path": "references/source/docs/ZegoRTCReadme_en.md",
+    "tags": [
+      "agora",
+      "zego",
+      "rtc",
+      "camera",
+      "image",
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "avatar",
+      "package",
+      "license",
+      "troubleshooting"
+    ],
+    "headings": [
+      "#",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "##",
+      "##",
+      "###",
+      "###"
+    ]
+  },
+  {
+    "path": "references/source/docs/ZegoRTCReadme_zh.md",
+    "tags": [
+      "zego",
+      "rtc",
+      "image",
+      "beauty",
+      "segmentation",
+      "caption",
+      "sticker",
+      "avatar",
+      "package",
+      "license",
+      "troubleshooting"
+    ],
+    "headings": [
+      "#",
+      "##",
+      "##",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "###",
+      "##",
+      "##",
+      "###",
+      "###"
+    ]
+  }
+]
